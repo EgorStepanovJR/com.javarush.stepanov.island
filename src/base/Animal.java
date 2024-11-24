@@ -46,12 +46,4 @@ public abstract class Animal {
     public void setPopulationInCell(int populationInCell) {
         this.populationInCell = populationInCell;
     }
-
-    public void eat() {
-        System.out.println(name + " поел травы");
-    }
-
-    public void move() {
-        System.out.println(name + " двигается");
-    }
 }
