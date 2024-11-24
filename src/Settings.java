@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Settings {
+public class Settings {
+
 }
